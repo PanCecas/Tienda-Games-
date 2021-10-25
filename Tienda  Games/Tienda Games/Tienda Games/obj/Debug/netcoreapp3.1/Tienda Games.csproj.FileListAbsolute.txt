@@ -1,0 +1,16 @@
+D:\JUANSE\2021\UPB\SEGUNDO SEMESTRE\Fund PROGRAMACION\Tienda  Games\Tienda Games\Tienda Games\bin\Debug\netcoreapp3.1\Tienda Games.exe
+D:\JUANSE\2021\UPB\SEGUNDO SEMESTRE\Fund PROGRAMACION\Tienda  Games\Tienda Games\Tienda Games\bin\Debug\netcoreapp3.1\Tienda Games.deps.json
+D:\JUANSE\2021\UPB\SEGUNDO SEMESTRE\Fund PROGRAMACION\Tienda  Games\Tienda Games\Tienda Games\bin\Debug\netcoreapp3.1\Tienda Games.runtimeconfig.json
+D:\JUANSE\2021\UPB\SEGUNDO SEMESTRE\Fund PROGRAMACION\Tienda  Games\Tienda Games\Tienda Games\bin\Debug\netcoreapp3.1\Tienda Games.runtimeconfig.dev.json
+D:\JUANSE\2021\UPB\SEGUNDO SEMESTRE\Fund PROGRAMACION\Tienda  Games\Tienda Games\Tienda Games\bin\Debug\netcoreapp3.1\Tienda Games.dll
+D:\JUANSE\2021\UPB\SEGUNDO SEMESTRE\Fund PROGRAMACION\Tienda  Games\Tienda Games\Tienda Games\bin\Debug\netcoreapp3.1\Tienda Games.pdb
+D:\JUANSE\2021\UPB\SEGUNDO SEMESTRE\Fund PROGRAMACION\Tienda  Games\Tienda Games\Tienda Games\obj\Debug\netcoreapp3.1\Tienda Games.csproj.AssemblyReference.cache
+D:\JUANSE\2021\UPB\SEGUNDO SEMESTRE\Fund PROGRAMACION\Tienda  Games\Tienda Games\Tienda Games\obj\Debug\netcoreapp3.1\Tienda_Games.Ventas.resources
+D:\JUANSE\2021\UPB\SEGUNDO SEMESTRE\Fund PROGRAMACION\Tienda  Games\Tienda Games\Tienda Games\obj\Debug\netcoreapp3.1\Tienda Games.csproj.GenerateResource.cache
+D:\JUANSE\2021\UPB\SEGUNDO SEMESTRE\Fund PROGRAMACION\Tienda  Games\Tienda Games\Tienda Games\obj\Debug\netcoreapp3.1\Tienda Games.GeneratedMSBuildEditorConfig.editorconfig
+D:\JUANSE\2021\UPB\SEGUNDO SEMESTRE\Fund PROGRAMACION\Tienda  Games\Tienda Games\Tienda Games\obj\Debug\netcoreapp3.1\Tienda Games.AssemblyInfoInputs.cache
+D:\JUANSE\2021\UPB\SEGUNDO SEMESTRE\Fund PROGRAMACION\Tienda  Games\Tienda Games\Tienda Games\obj\Debug\netcoreapp3.1\Tienda Games.AssemblyInfo.cs
+D:\JUANSE\2021\UPB\SEGUNDO SEMESTRE\Fund PROGRAMACION\Tienda  Games\Tienda Games\Tienda Games\obj\Debug\netcoreapp3.1\Tienda Games.csproj.CoreCompileInputs.cache
+D:\JUANSE\2021\UPB\SEGUNDO SEMESTRE\Fund PROGRAMACION\Tienda  Games\Tienda Games\Tienda Games\obj\Debug\netcoreapp3.1\Tienda Games.dll
+D:\JUANSE\2021\UPB\SEGUNDO SEMESTRE\Fund PROGRAMACION\Tienda  Games\Tienda Games\Tienda Games\obj\Debug\netcoreapp3.1\Tienda Games.pdb
+D:\JUANSE\2021\UPB\SEGUNDO SEMESTRE\Fund PROGRAMACION\Tienda  Games\Tienda Games\Tienda Games\obj\Debug\netcoreapp3.1\Tienda Games.genruntimeconfig.cache

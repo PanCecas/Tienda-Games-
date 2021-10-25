@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Tienda_Juguetes</RootNamespace>
+    <UseWindowsForms>true</UseWindowsForms>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="D:\JUANSE\2021\UPB\SEGUNDO SEMESTRE\Fund PROGRAMACION\SebastianCorrea_Nrc_431345_Fundamentos_de_Programacion_TiendaGames.cs" Link="SebastianCorrea_Nrc_431345_Fundamentos_de_Programacion_TiendaGames.cs" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,16 @@
+D:\JUANSE\2021\UPB\SEGUNDO SEMESTRE\Fund PROGRAMACION\Tienda de juguetes\Tienda Juguetes\Tienda Juguetes\bin\Debug\netcoreapp3.1\Tienda Juguetes.exe
+D:\JUANSE\2021\UPB\SEGUNDO SEMESTRE\Fund PROGRAMACION\Tienda de juguetes\Tienda Juguetes\Tienda Juguetes\bin\Debug\netcoreapp3.1\Tienda Juguetes.deps.json
+D:\JUANSE\2021\UPB\SEGUNDO SEMESTRE\Fund PROGRAMACION\Tienda de juguetes\Tienda Juguetes\Tienda Juguetes\bin\Debug\netcoreapp3.1\Tienda Juguetes.runtimeconfig.json
+D:\JUANSE\2021\UPB\SEGUNDO SEMESTRE\Fund PROGRAMACION\Tienda de juguetes\Tienda Juguetes\Tienda Juguetes\bin\Debug\netcoreapp3.1\Tienda Juguetes.runtimeconfig.dev.json
+D:\JUANSE\2021\UPB\SEGUNDO SEMESTRE\Fund PROGRAMACION\Tienda de juguetes\Tienda Juguetes\Tienda Juguetes\bin\Debug\netcoreapp3.1\Tienda Juguetes.dll
+D:\JUANSE\2021\UPB\SEGUNDO SEMESTRE\Fund PROGRAMACION\Tienda de juguetes\Tienda Juguetes\Tienda Juguetes\bin\Debug\netcoreapp3.1\Tienda Juguetes.pdb
+D:\JUANSE\2021\UPB\SEGUNDO SEMESTRE\Fund PROGRAMACION\Tienda de juguetes\Tienda Juguetes\Tienda Juguetes\obj\Debug\netcoreapp3.1\Tienda Juguetes.csproj.AssemblyReference.cache
+D:\JUANSE\2021\UPB\SEGUNDO SEMESTRE\Fund PROGRAMACION\Tienda de juguetes\Tienda Juguetes\Tienda Juguetes\obj\Debug\netcoreapp3.1\Tienda_Juguetes.Ventas.resources
+D:\JUANSE\2021\UPB\SEGUNDO SEMESTRE\Fund PROGRAMACION\Tienda de juguetes\Tienda Juguetes\Tienda Juguetes\obj\Debug\netcoreapp3.1\Tienda Juguetes.csproj.GenerateResource.cache
+D:\JUANSE\2021\UPB\SEGUNDO SEMESTRE\Fund PROGRAMACION\Tienda de juguetes\Tienda Juguetes\Tienda Juguetes\obj\Debug\netcoreapp3.1\Tienda Juguetes.GeneratedMSBuildEditorConfig.editorconfig
+D:\JUANSE\2021\UPB\SEGUNDO SEMESTRE\Fund PROGRAMACION\Tienda de juguetes\Tienda Juguetes\Tienda Juguetes\obj\Debug\netcoreapp3.1\Tienda Juguetes.AssemblyInfoInputs.cache
+D:\JUANSE\2021\UPB\SEGUNDO SEMESTRE\Fund PROGRAMACION\Tienda de juguetes\Tienda Juguetes\Tienda Juguetes\obj\Debug\netcoreapp3.1\Tienda Juguetes.AssemblyInfo.cs
+D:\JUANSE\2021\UPB\SEGUNDO SEMESTRE\Fund PROGRAMACION\Tienda de juguetes\Tienda Juguetes\Tienda Juguetes\obj\Debug\netcoreapp3.1\Tienda Juguetes.csproj.CoreCompileInputs.cache
+D:\JUANSE\2021\UPB\SEGUNDO SEMESTRE\Fund PROGRAMACION\Tienda de juguetes\Tienda Juguetes\Tienda Juguetes\obj\Debug\netcoreapp3.1\Tienda Juguetes.dll
+D:\JUANSE\2021\UPB\SEGUNDO SEMESTRE\Fund PROGRAMACION\Tienda de juguetes\Tienda Juguetes\Tienda Juguetes\obj\Debug\netcoreapp3.1\Tienda Juguetes.pdb
+D:\JUANSE\2021\UPB\SEGUNDO SEMESTRE\Fund PROGRAMACION\Tienda de juguetes\Tienda Juguetes\Tienda Juguetes\obj\Debug\netcoreapp3.1\Tienda Juguetes.genruntimeconfig.cache
