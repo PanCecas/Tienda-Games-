@@ -1,0 +1,16 @@
+D:\JUANSE\2021\UPB\SEGUNDO SEMESTRE\Fund PROGRAMACION\Tienda huevos\Tienda Huevos\Tienda Huevos\bin\Debug\netcoreapp3.1\Tienda Huevos.exe
+D:\JUANSE\2021\UPB\SEGUNDO SEMESTRE\Fund PROGRAMACION\Tienda huevos\Tienda Huevos\Tienda Huevos\bin\Debug\netcoreapp3.1\Tienda Huevos.deps.json
+D:\JUANSE\2021\UPB\SEGUNDO SEMESTRE\Fund PROGRAMACION\Tienda huevos\Tienda Huevos\Tienda Huevos\bin\Debug\netcoreapp3.1\Tienda Huevos.runtimeconfig.json
+D:\JUANSE\2021\UPB\SEGUNDO SEMESTRE\Fund PROGRAMACION\Tienda huevos\Tienda Huevos\Tienda Huevos\bin\Debug\netcoreapp3.1\Tienda Huevos.runtimeconfig.dev.json
+D:\JUANSE\2021\UPB\SEGUNDO SEMESTRE\Fund PROGRAMACION\Tienda huevos\Tienda Huevos\Tienda Huevos\bin\Debug\netcoreapp3.1\Tienda Huevos.dll
+D:\JUANSE\2021\UPB\SEGUNDO SEMESTRE\Fund PROGRAMACION\Tienda huevos\Tienda Huevos\Tienda Huevos\bin\Debug\netcoreapp3.1\Tienda Huevos.pdb
+D:\JUANSE\2021\UPB\SEGUNDO SEMESTRE\Fund PROGRAMACION\Tienda huevos\Tienda Huevos\Tienda Huevos\obj\Debug\netcoreapp3.1\Tienda Huevos.csproj.AssemblyReference.cache
+D:\JUANSE\2021\UPB\SEGUNDO SEMESTRE\Fund PROGRAMACION\Tienda huevos\Tienda Huevos\Tienda Huevos\obj\Debug\netcoreapp3.1\Tienda_Huevos.Ventas.resources
+D:\JUANSE\2021\UPB\SEGUNDO SEMESTRE\Fund PROGRAMACION\Tienda huevos\Tienda Huevos\Tienda Huevos\obj\Debug\netcoreapp3.1\Tienda Huevos.csproj.GenerateResource.cache
+D:\JUANSE\2021\UPB\SEGUNDO SEMESTRE\Fund PROGRAMACION\Tienda huevos\Tienda Huevos\Tienda Huevos\obj\Debug\netcoreapp3.1\Tienda Huevos.GeneratedMSBuildEditorConfig.editorconfig
+D:\JUANSE\2021\UPB\SEGUNDO SEMESTRE\Fund PROGRAMACION\Tienda huevos\Tienda Huevos\Tienda Huevos\obj\Debug\netcoreapp3.1\Tienda Huevos.AssemblyInfoInputs.cache
+D:\JUANSE\2021\UPB\SEGUNDO SEMESTRE\Fund PROGRAMACION\Tienda huevos\Tienda Huevos\Tienda Huevos\obj\Debug\netcoreapp3.1\Tienda Huevos.AssemblyInfo.cs
+D:\JUANSE\2021\UPB\SEGUNDO SEMESTRE\Fund PROGRAMACION\Tienda huevos\Tienda Huevos\Tienda Huevos\obj\Debug\netcoreapp3.1\Tienda Huevos.csproj.CoreCompileInputs.cache
+D:\JUANSE\2021\UPB\SEGUNDO SEMESTRE\Fund PROGRAMACION\Tienda huevos\Tienda Huevos\Tienda Huevos\obj\Debug\netcoreapp3.1\Tienda Huevos.dll
+D:\JUANSE\2021\UPB\SEGUNDO SEMESTRE\Fund PROGRAMACION\Tienda huevos\Tienda Huevos\Tienda Huevos\obj\Debug\netcoreapp3.1\Tienda Huevos.pdb
+D:\JUANSE\2021\UPB\SEGUNDO SEMESTRE\Fund PROGRAMACION\Tienda huevos\Tienda Huevos\Tienda Huevos\obj\Debug\netcoreapp3.1\Tienda Huevos.genruntimeconfig.cache
